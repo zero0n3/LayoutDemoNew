@@ -5,7 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="form_description">Insert your data to sign in...</string>
+    <string name="form_description">...Insert your data to sign in...</string>
     <string name="name_edittext_hint">Your Name</string>
     <string name="email_edittext_hint">your_email@domain.com</string>
     <string name="password_edittext_hint">your password</string>
